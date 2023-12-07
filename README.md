@@ -3,6 +3,7 @@ Exploratory data analysis of AppStore Data using SQL
 
 - Objective: The main goal of this EDA on the Apple store dataset is to gain insight into user behavior, trending categories, and correlations between different variables to understand app rating factors.
 - Database used: MySQL <br>
+- We have cleaned the dataset to make sure there are no null values and duplicates.
 - Dataset from Kaggle consisting of 2 CSV files:-
 1. AppleStore.csv <br>
 2. AppleStore_Description.csv
