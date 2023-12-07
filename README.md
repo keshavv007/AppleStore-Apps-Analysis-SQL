@@ -8,7 +8,7 @@ Exploratory data analysis of AppStore Data using SQL
 2. AppleStore_Description.csv
 
 ## Summary of Analysis
-1. What are the top 10 categories that have the most apps in the Apple Store? <br>
+1. What are the top 3 categories that have the most apps in the Apple Store? <br>
    Answer: The top 3 biggest categories of apps are Games, Entertainment, and Education.
 
 2. What are the top 5 highest-rated primary genres based on Average_User_Rating?  <br>
